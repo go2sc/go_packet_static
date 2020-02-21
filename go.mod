@@ -1,4 +1,4 @@
-module packetHello
+module go_packet_static
 
 go 1.13
 

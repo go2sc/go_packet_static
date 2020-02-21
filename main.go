@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"packetHello/static"
+	"go_packet_static/static"
 )
 
 func helloWorld( w http.ResponseWriter, r *http.Request){
